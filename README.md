@@ -2,7 +2,7 @@
 
 A simulation of AI agents trading stocks on your behalf, with a local market, accounts, and trader behaviors orchestrated behind a simple app entrypoint. :contentReference[oaicite:0]{index=0}
 
-**Live demo:** [`app.py` (Gradio-based) :contentReference[oaicite:1]{index=1}](https://huggingface.co/spaces/Anindhya/MCP_TradingAgents)
+**Live demo:** https://huggingface.co/spaces/Anindhya/MCP_TradingAgents
 
 ---
 
